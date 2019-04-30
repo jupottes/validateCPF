@@ -1,0 +1,29 @@
+{
+  "name": "validatecpf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jupottes/validateCPF.git"
+  },
+  "author": "Juliette Pottes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jupottes/validateCPF/issues"
+  },
+  "homepage": "https://github.com/jupottes/validateCPF#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "node": "^11.14.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": ""
+}
