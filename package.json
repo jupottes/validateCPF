@@ -16,14 +16,16 @@
   },
   "homepage": "https://github.com/jupottes/validateCPF#readme",
   "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.1.4",
     "node": "^11.14.0"
   },
   "directories": {
     "lib": "lib",
     "test": "test"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "nyc": "^14.1.0"
+  },
   "description": ""
 }
