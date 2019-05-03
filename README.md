@@ -5,14 +5,14 @@ Na versão atual valida numeros de CPF a partir da formula definida pela Receita
 
 ## Como instalar:
 
-$  npm install cpfvalidator-jupottes
+$  npm i validatecpf
 
 
 ## Como utilizar:
 
 ```node
 
-> const cpf = require('cpfvalidator-jupottes');
+> const cpf = require('validatecpf');
 > console.log(cpf(08172315449))
 > // returns true
 
