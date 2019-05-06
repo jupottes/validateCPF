@@ -1,7 +1,7 @@
-# Conversor de números v.1.0.2
+# Validador de Cartão de Crédito v.1.0.2
 
 **Esta biblioteca se destina à validação de CPF, para uso em aplicações web.**
-Na versão atual valida numeros de CPF a partir da formula definida pela Receita Federal, com validação pelo digitos verificadores.
+Na versão atual valida números de CPF a partir da fórmula definida pela Receita Federal, com validação pelo dígitos verificadores.
 
 ## Como instalar:
 
@@ -14,11 +14,11 @@ $  npm i validatecpf
 
 > const cpf = require('validatecpf');
 > console.log(cpf(08172315449))
-> // returns true
+> // return true
 
 ```
 
 ## roadmap oficial do projeto
 
-#### versão 1.0.0 (released)
+#### versão 1.0.2 (released)
 - funcionalidades: validação de CPF
