@@ -1,4 +1,4 @@
-# Validador de CPF v.1.0.4
+# Validador de CPF v.1.0.5
 
 **Esta biblioteca se destina à validação de CPF, para uso em aplicações web.**
 Na versão atual valida números de CPF a partir da fórmula definida pela Receita Federal, com validação pelo dígitos verificadores.
@@ -13,7 +13,7 @@ $  npm i validatecpf
 ```node
 
 > const cpf = require('validatecpf');
-> console.log(cpf(08172315449))
+> console.log(cpf("08172315449"))
 > // return true
 
 ```
