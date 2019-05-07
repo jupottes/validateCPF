@@ -1,4 +1,4 @@
-# Validador de CPF v.1.0.3
+# Validador de CPF v.1.0.4
 
 **Esta biblioteca se destina à validação de CPF, para uso em aplicações web.**
 Na versão atual valida números de CPF a partir da fórmula definida pela Receita Federal, com validação pelo dígitos verificadores.
