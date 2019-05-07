@@ -20,5 +20,8 @@ $  npm i validatecpf
 
 ## roadmap oficial do projeto
 
-#### versão 1.0.2 (released)
-- funcionalidades: validação de CPF
+#### versão 1.0.0 (released)
+- funcionalidades: validação de CPF;
+
+#### versão 1.1.0
+- funcionalidades: identificação de CPF com números repetitivos;

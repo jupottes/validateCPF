@@ -23,4 +23,7 @@ describe("retCpfValidator()", () => {
     it("deve retornar false", () => {
     assert.equal(cpfValidator("aaaaaaaaaaa"), false);
     });
+    it("deve retornar false", () => {
+    assert.equal(cpfValidator("00000000000"), false);
+    });
 });
